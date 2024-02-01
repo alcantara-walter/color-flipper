@@ -1,0 +1,36 @@
+				* {
+					margin: 0px;
+					padding: 0px;
+					font-size: 20px;
+					font-family: "Lucida Console", "Courier New", monospace;
+				}
+
+				body {
+					background-color: white;
+					background-color: rgba(0, 0, 0, 1.0);
+				}
+
+				#botaoCor  {
+					
+					display: block;
+					margin: 20% auto;
+					padding: 50px;
+					background-color: white;
+					color: black;
+					border: 1px solid black;
+				}
+
+				#menu {
+					font-weight: 900;
+					display: flex;
+					justify-content: space-around;
+					border-bottom: 6px solid whitesmoke;
+					background: white;
+					color: black;
+					padding: 15px;
+				}
+
+				a {
+					cursor: pointer;
+				}
+				
